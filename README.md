@@ -1,4 +1,4 @@
-# Front-end Aula 05 - Revisão e prática II Mesa de Trabalho
+# Front-end Aula 06 - Revisão e prática II Mesa de Trabalho
 ## Trajetória da Sheryl Sandberg 👩‍💻
 
 ### Bem vinda Prof Taynara Dutra à minha página sobre a história de Sheryl Kara Sandberg ✨! 
