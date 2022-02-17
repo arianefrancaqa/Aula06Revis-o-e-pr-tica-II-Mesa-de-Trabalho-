@@ -1,7 +1,5 @@
 # Front-end Aula 05 - Revisão e prática II Mesa de Trabalho
-Página Receita de Torta de Limão
-
-# Trajetória da Sheryl Sandberg 👩‍💻
+## Trajetória da Sheryl Sandberg 👩‍💻
 
 ## Bem vinda Prof Taynara Dutra à minha página sobre a história de Sheryl Kara Sandberg ✨! 
 
